@@ -2,7 +2,7 @@
 
 # Description
 
-
+A book search & save allows users to search, save and delete books from their account. This application allows users to do just that, and also allows them to create an account.
 
 # User Story
 
@@ -44,6 +44,8 @@ SO THAT I can keep a list of books to purchase
 
 # Considerations
 
+Ensure that all packages have been installed correctly, in addition to pulling already provided code into your folders accordingly. Also researcing your schemas accordingly, and look up the documentation for each package to create your schemas.
+
 # Collaborators
 
 Angelica Sargent
@@ -56,4 +58,4 @@ Angelica Sargent
 
 # Link
 
-Check out this [link]()!
+Check out this [link](https://sleepy-ocean-02638.herokuapp.com/)!
